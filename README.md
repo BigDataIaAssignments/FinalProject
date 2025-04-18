@@ -1,7 +1,7 @@
 # FinalProject
 
 
-**Frontend - https://finalprojectarvversion-jbsfhkzr7zmxr9kgot8uwe.streamlit.app/
+**Frontend - https://finalprojectarvversion-chwvbdmqco4pwudyja49n6.streamlit.app/
 
 **Backend - https://final-project-deploy-343736309329.us-central1.run.app
 
